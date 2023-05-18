@@ -84,3 +84,6 @@ wasabi==0.10.1
 watchdog==3.0.0
 xformers==0.0.19
 zipp==3.15.0
+## The following requirements were added by pip freeze:
+accelerate==0.19.0
+psutil==5.9.5
